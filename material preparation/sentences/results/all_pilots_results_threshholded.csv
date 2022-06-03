@@ -1,0 +1,52 @@
+﻿,target,prob_x,number_x,entropy_x,pred_x,sentence_x,prob_y,number_y,entropy_y,pred_y,sentence_y
+1,rencontrees,0.631578947368421,24,9,1,Émilie l’avait détestée dès le moment où elles s'étaient,0.0,0,23,0,Les policiers n'avaient pas du tout compris qu'elles s'étaient
+3,disparu,0.6052631578947368,23,9,1,Le magicien fit tomber le rideau et la femme avait,0.06451612903225806,2,15,0,Les visiteurs attendaient le maire et pensaient qu'il avait
+4,contrat,1.0,38,1,1,Il voulait travailler pour mon entreprise et n'a pas hésité à signer le,0.0,0,11,0,Elle a eu la bonne idée de le rappeler après avoir étudié son
+5,anniversaire,0.9473684210526315,36,3,1,La fillette a reçu ce cadeau pour son,0.12903225806451613,4,17,0,Elle a acheté un pot de fleurs pour son
+6,construite,0.6052631578947368,23,8,1,Hugo vivait dans une cabane qu'il avait lui-même,0.0,0,22,0,Albert a oublié la radio que sa mère avait
+8,sucre,1.0,38,1,1,"Pour rendre son café moins amer, elle a mis un morceau de",0.12903225806451613,4,11,0,"Pour améliorer cette recette, il faudrait ajouter un peu de"
+9,gorge,0.9736842105263158,37,2,1,Il lui a mis un couteau sous la,0.12903225806451613,4,8,0,Elle a toujours eu mal à la
+10,menthe,0.7368421052631579,28,6,1,Bernard l’avait accueilli avec un thé à la,0.0,0,8,0,Isabelle était sortie cueillir un bouquet de
+11,photos,0.9210526315789473,35,3,1,Elle a emporté son nouvel appareil pour prendre de belles,0.0,0,13,0,Son père avait dans le temps une incroyable collection de
+0,pommes,0.9354838709677419,29,3,1,On fait le cidre avec le jus des,0.10526315789473684,4,28,0,Son ami a toujours adoré manger des
+3,pelouse,1.0,31,1,1,"Au printemps dans le jardin, son père tondait la",0.0,0,3,0,"En été à la mer, les enfants jouaient sur la"
+4,armee,0.8387096774193549,26,5,1,"Dès sa majorité, il s’était engagé dans l'",0.05263157894736842,2,20,0,"Depuis trois ans, elle travaillait dans l'"
+5,honte,0.8709677419354839,27,5,1,Après cette grosse bêtise il rougit de,0.0,0,24,0,"L'après-midi, il su pourquoi il avait"
+6,voiture,0.8709677419354839,27,5,1,"Après sa panne, un passant l'a aidé à pousser sa",0.02631578947368421,1,10,0,"Comme ses voisins, elle a elle-même repeint sa"
+9,bourse,0.9354838709677419,29,3,1,Il va acheter des actions cotées en,0.0,0,18,0,Elle n'est encore jamais passée devant la
+10,lunettes,0.9354838709677419,29,2,1,Sa vue a diminué et elle doit acheter une nouvelle paire de,0.0,0,21,0,Il aime le commerce et a décidé d'ouvrir un magasin de
+11,fourchette,0.9354838709677419,29,3,1,Le petit garçon mange son steak avec un couteau et une,0.0,0,15,0,La vieille femme met dans son sac un petit briquet et une
+12,parapluie,0.9032258064516129,28,4,1,Dès la première goutte de pluie elle a ouvert son,0.0,0,23,0,Dès son arrivée dans le grand magasin elle s'est acheté un
+0,amoureux,0.935483870967742,29,3,1,Les deux étudiants se sont rencontrés et sont rapidement tombés,0.0303030303030303,1,17,0,Les deux voisins ont discuté et ont compris qu'ils étaient
+2,chaude,0.8709677419354839,27,2,1,Faites attention à ne pas toucher la poêle quand elle est,0.0,0,21,0,Attendons-nous à ce que cette maison ne soit pas vraiment
+5,nuit,0.967741935483871,30,2,1,Les faux jumeaux étaient aussi différents que le jour et la,0.0,0,19,0,Elles aimaient beaucoup la liberté que leur offrait la
+6,dent,0.8387096774193549,26,6,1,La petite fille était contente de perdre sa première,0.0606060606060606,2,16,0,Le pauvre homme s'inquiétait toujours de perdre une nouvelle
+8,forte,0.6774193548387096,21,7,1,"Au concert de rock, la musique était trop",0.0303030303030303,1,12,0,"Avec le poisson, la sauce n'était pas très"
+9,fete,0.7419354838709677,23,4,1,"Pour fêter son départ, ses amis lui ont organisé une",0.0606060606060606,2,19,0,"De leur chambre, les enfants entendaient bien les bruits de la"
+10,pas,0.9032258064516128,28,2,1,"Pendant la randonnée, les pieds de Lila lui faisaient plus mal à chaque",0.0,0,21,0,"Pendant la réunion, les enfants de sa sœur ont décidé de faire un"
+13,rouge,0.8064516129032258,25,4,1,La couleur la plus associée à la colère est le,0.0303030303030303,1,10,0,Sa nouvelle chambre a un mur entièrement peint en
+14,guerre,0.967741935483871,30,2,1,Les tensions entre les pays pourraient aboutir à la,0.0303030303030303,1,17,0,Les marchands de légumes n'ont pas l'habitude de faire la
+15,faire,0.7096774193548387,22,5,1,Gaspard était perdu et ne savait pas quoi,0.0,0,21,0,Léo était choqué devant cette chose étrange à
+16,nourrir,0.7419354838709677,23,7,1,La mère inquiète avait plusieurs bouches à,0.0303030303030303,1,17,0,Mon frère possédait des animaux difficiles à
+18,couteau,0.967741935483871,30,2,1,"En cuisinant, Luc s'est coupé le doigt avec un",0.0,0,22,0,"En rentrant, Léa trouva sur la table son vieux"
+22,serviette,0.935483870967742,29,2,1,"Après s'être lavé les mains, Nathan les a séchées avec une",0.0,0,21,0,"Dès leur retour à la maison, Valentin lui a donné une"
+23,creuse,0.7096774193548387,22,4,1,Les hommes ont failli tomber dans le trou qu'ils avaient,0.0909090909090909,3,22,0,Les soldats passent toujours par le chemin qu'ils ont
+25,ami,0.8064516129032258,25,5,1,Chris dit que son chien avait toujours été son meilleur,0.1212121212121212,4,11,0,Julia était de nouveau partie en vacances avec son
+1,chiot,0.9393939393939394,31,3,1,Un très jeune chien s'appelle un,0.0,0,22,0,Dans cette boite se cache un
+2,tonne,0.9090909090909092,30,3,1,L'énorme valise semblait peser une,0.064516129032258,2,19,0,Cet espace peut en stocker une
+4,acide,0.7878787878787878,26,7,1,Le jus de citron est très,0.0,0,13,0,Ce plat est beaucoup trop
+7,boue,0.8181818181818182,27,5,1,"Après une ballade dans les champs, mes bottes étaient couvertes de",0.0,0,14,0,"Après avoir été lavé, le col n'était plus taché de"
+8,badge,0.696969696969697,23,6,1,"Pour entrer dans la maison, l'inspecteur a dû montrer son",0.0,0,12,0,"Pour avoir participé à la course, l'enfant a reçu un"
+9,foule,0.8181818181818182,27,7,1,L'annonce de soldes très importantes a attiré une immense,0.0,0,12,0,La boutique d'accessoires était dans un quartier éloigné de la
+10,mort,0.9393939393939394,31,3,1,Manon a été triste de découvrir que son poisson rouge était,0.0,0,13,0,Dina a été surprise d'apprendre que son meilleur ami était
+11,raser,0.8181818181818182,27,6,1,Elle a suggéré à son petit ami barbu de se,0.0,0,14,0,Il a dit à son frère qu'il devait vraiment se
+12,malade,0.9393939393939394,31,3,1,Il avait peur des microbes et craignait de tomber,0.0,0,24,0,Il est entré dans cette chambre et est maintenant
+15,vite,0.8787878787878788,29,3,1,Pour arriver à temps il aurait dû marcher plus,0.032258064516129,1,20,0,"Pour ne pas avoir faim, il aurait dû manger plus"
+17,forces,0.8787878787878788,29,4,1,"Pour ouvrir la porte, Thomas a tiré de toutes ses",0.0,0,21,0,"Pour réussir à l'examen, Emma ne manquait pas de"
+19,laver,0.9090909090909092,30,4,1,"Après deux semaines, il y avait plein de vêtements sales à",0.0,0,13,0,"Après quelques mois, ils ont engagé un homme pour tout"
+20,gagne,0.8484848484848485,28,6,1,Kevin était deçu que son équipe de basket n'ait pas,0.0,0,24,0,Camille était très surprise que son mari n'ait pas
+21,abeille,0.8181818181818182,27,3,1,En s'approchant d'une ruche elle a été piquée par une,0.0,0,25,0,En regardant son livre il a deviné l'espèce de
+22,bateau,0.8787878787878788,29,5,1,Le pêcheur aimait passer la journée en mer sur son,0.0,0,16,0,L'équipe s'est entrainée de très longues semaines sur son
+24,enterrement,0.9696969696969696,32,2,1,"Pour honorer la mort de son collègue, Kim a assisté à son",0.0,0,21,0,"Pour aider la famille de sa femme, Diego a organisé tout"
+25,pauvrete,0.6363636363636364,21,10,1,Il apprécie la richesse car il a grandi dans la,0.0,0,15,0,Mon professeur m'a dit qu'il avait toujours eu peur de la
+26,chat,0.9090909090909092,30,3,1,J'ai entendu miauler un,0.032258064516129,1,22,0,Je suis allé acheter un
