@@ -35,5 +35,6 @@ you can initialize this script at the begging of new ones to call this functions
 - In the "Final_Materials.xlsx" you can find the final materials that we used for filming the materials.
 
 ## [4. Automatic video editing](https://github.com/HagarSalpeter/Stage/tree/main/automatic%20video%20editing)
-- In this file you can find the script that was apllied on all the videos to adjust the colors and add fade in and fade out effect in standartazing way.
+- In this file you can find the script that was applied on all the videos to adjust the colors,
+  and add fade in and fade out effect in a systematic way.
 - In the script there is a way to apply the pipline to all the files in a certain folder in a batch
