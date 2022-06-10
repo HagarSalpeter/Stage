@@ -30,6 +30,6 @@ In this file you can find functions to:
 
 you can initialize this script at the begging of new ones to call this functions. all the details are in the script.
 
-## [3. Material prepatation](https://github.com/HagarSalpeter/Stage/tree/main/material%20preparation)
+## [3. Material preparation](https://github.com/HagarSalpeter/Stage/tree/main/material%20preparation)
 - In this part you can find the all the scripts to generate the materials of the sentences and the words.
 - In the "Final_Materials.xlsx" you can find the final materials that we used for filming the materials.
