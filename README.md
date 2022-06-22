@@ -1,7 +1,7 @@
 # Stage repository #
 
 In this repository you can find all the scripts I generated during my internship.
-The repository is divided to four main files:
+The repository is divided to four main folders:
 
 ## [1. Automatic detection:](https://github.com/HagarSalpeter/Stage/tree/main/automatic%20detection)
 In this file you can find two different tools to detect the onsets of the hand automatically.
